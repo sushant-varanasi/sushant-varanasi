@@ -1,10 +1,10 @@
 ### Hi there 👋
-<p align="center"><img src="https://github.com/varsvat/varsvat/blob/main/helloworldimage/46479049-d8a9c400-c80b-11e8-92a1-89fc10701f4a.jpg" alt="Hello world"></p>
+<p align="center"><img src="https://github.com/sushant-varanasi/sushant-varanasi/blob/main/helloworldimage/46479049-d8a9c400-c80b-11e8-92a1-89fc10701f4a.jpg" alt="Hello world"></p>
 <h1 align="center">Hello, Folks! My name is Sushant Varanasi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <p align="center">
 <a href="https://github.com/sushant-varanasi" target="_blank"><img height="30" src="https://github.com/varsvat/varsvat/blob/main/icon/github.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sushant-varanasi-23a33b194/" target="_blank"><img height="30" src="https://github.com/varsvat/varsvat/blob/main/icon/linkedin.svg"></a>&nbsp;&nbsp;
-<a href = "mailto: vsushant2001@gmail.com" target="_blank"><img height="30" src="https://github.com/varsvat/varsvat/blob/main/icon/gmail.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sushant-varanasi-23a33b194/" target="_blank"><img height="30" src="https://github.com/sushant-varanasi/sushant-varanasi/blob/main/icon/linkedin.svg"></a>&nbsp;&nbsp;
+<a href = "mailto: vsushant2001@gmail.com" target="_blank"><img height="30" src="https://github.com/sushant-varanasi/sushant-varanasi/blob/main/icon/gmail.svg"></a>&nbsp;&nbsp;
 </p>
 <br>
 <p align="center">I am a passionate self-taught Software Developer, having experience in working with Android, Backend Development. I am also a OpenSouce contributor to the <a href="https://mifos.org/" target="_blank">Mifos</a> and <a href="https://www.apache.org/" target="_blank">The Apache Software Foundation</a> organization. Community is :heart:.  
