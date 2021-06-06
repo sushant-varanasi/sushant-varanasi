@@ -7,11 +7,14 @@
 <a href = "mailto: vsushant2001@gmail.com" target="_blank"><img height="30" src="https://github.com/sushant-varanasi/sushant-varanasi/blob/main/icon/gmail.svg"></a>&nbsp;&nbsp;
 </p>
 <br>
+<!--
 <p align="center">I am a passionate self-taught Software Developer, having experience in working with Android, Backend Development. I am also a OpenSouce contributor to the <a href="https://mifos.org/" target="_blank">Mifos</a> and <a href="https://www.apache.org/" target="_blank">The Apache Software Foundation</a> organization. Community is :heart:.  
 <br>
  I mostly like to work in the field of Mobile Application development, having experience in native Android development with kotlin, along with modern android development techniques and Flutter using Dart. I am currently working as a student App developer at <a href="https://bits-sutechteam.org/" target="_blank">Students' Union Tech-Team BITS Pilani</a>
 </p>
 <br>
+-->
+
 
 ## &#x1f4c8; GitHub Stats
 <p align="center">
