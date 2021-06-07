@@ -19,6 +19,8 @@
 
 ## &#x1f4c8; GitHub Stats
 <p align="center">
+ [![Github](https://img.shields.io/github/followers/sushant-varanasi?label=Follow&style=social)](https://github.com/sushant-varanasi)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sushant-varanasi.sushant-varanasi)
 <a href="https://github.com/sushant-varanasi?tab=repositories" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushant-varanasi&theme=algolia&show_icons=true&line_height=27&count_private=true&" alt="Sushant's GitHub Stats" />
 </a>
