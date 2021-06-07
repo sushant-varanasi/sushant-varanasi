@@ -26,7 +26,7 @@
 
 <a href="https://github.com/sushant-varanasi?tab=repositories" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushant-varanasi&theme=algolia&show_icons=true&line_height=27&count_private=true&" alt="Sushant's GitHub Stats" />
-</a>
+</a><br>
 <a href="https://github.com/sushant-varanasi?tab=repositories" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant-varanasi&hide=java,html&theme=algolia&count_private=true&" alt="Sushant's Github Stats" />
 </a>
