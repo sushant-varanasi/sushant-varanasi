@@ -3,7 +3,7 @@
 <h1 align="center">Hey! My name is Sushant Varanasi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <p align="center">
  <a href = "https://sites.google.com/pilani.bits-pilani.ac.in/sushant" target="_blank"><img height="30" src="https://github.com/sushant-varanasi/sushant-varanasi/blob/main/icon/website.svg"></a>&nbsp;&nbsp;
-<a href="https://github.com/sushant-varanasi" target="_blank"><img height="30" src="https://github.com/varsvat/varsvat/blob/main/icon/github.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/sushant-varanasi" target="_blank"><img height="30" src="https://github.com/sushant-varanasi/sushant-varanasi/blob/main/icon/github.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sushant-varanasi-23a33b194/" target="_blank"><img height="30" src="https://github.com/sushant-varanasi/sushant-varanasi/blob/main/icon/linkedin.svg"></a>&nbsp;&nbsp;
 <a href = "mailto: vsushant2001@gmail.com" target="_blank"><img height="30" src="https://github.com/sushant-varanasi/sushant-varanasi/blob/main/icon/gmail.svg"></a>&nbsp;&nbsp;
 </p>
