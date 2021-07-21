@@ -22,16 +22,6 @@
 [![Github](https://img.shields.io/github/followers/sushant-varanasi?label=Follow&style=social)](https://github.com/sushant-varanasi)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sushant-varanasi.sushant-varanasi)
 
-<p align="center">
-
-<a href="https://github.com/sushant-varanasi?tab=repositories" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushant-varanasi&theme=algolia&show_icons=true&line_height=27&count_private=true&" alt="Sushant's GitHub Stats" />
-</a><br>
-<!-- <a href="https://github.com/sushant-varanasi?tab=repositories" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant-varanasi&hide=java,html&theme=algolia&count_private=true&" alt="Sushant's Github Stats" />
-</a> -->
-</p>
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
