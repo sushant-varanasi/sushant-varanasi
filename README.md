@@ -1,5 +1,11 @@
 ### Hi there 👋
 <p align="center"><img src="https://github.com/sushant-varanasi/sushant-varanasi/blob/main/helloworldimage/46479049-d8a9c400-c80b-11e8-92a1-89fc10701f4a.jpg" alt="Hello world"></p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Hello,+There!+👋;I+am+Priyansh+Kedia....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <h1 align="center">Hey! My name is Sushant Varanasi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <p align="center">
  <a href = "https://sites.google.com/pilani.bits-pilani.ac.in/sushant" target="_blank"><img height="30" src="https://github.com/sushant-varanasi/sushant-varanasi/blob/main/icon/website.svg"></a>&nbsp;&nbsp;
